@@ -1,0 +1,15 @@
+/* start products */
+
+.description-column {
+    max-width: 200px;
+
+    overflow: auto;
+    white-space: nowrap;
+}
+
+.table-responsive {
+    overflow-x: auto;
+    /* Optional: Set a maximum width for the table to prevent it from stretching too wide on large screens */
+    max-width: 100%;
+}
+/* end products */
